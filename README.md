@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvzzkss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ajudar
+- 🌱 I’m currently learning a crisr bot's
+- 💞️ I’m looking to collaborate on tudo
 - 📫 How to reach me https://discord.gg/MR7qv4pD
 
 <!---
